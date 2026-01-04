@@ -41,40 +41,6 @@ Technologies Used
   IntelliJ IDEA
   Git and GitHub
 
-Project Structure               
-IMS/
-│
-├── src/
-│   └── main/
-│       ├── java/
-│       │   └── org.example.ims/
-│       │       ├── config/
-│       │       ├── dao/
-│       │       ├── filter/
-│       │       ├── model/
-│       │       └── servlet/
-│       │
-│       ├── resources/
-│       │
-│       └── webapp/
-│           ├── css/
-│           ├── WEB-INF/
-│           │   └── web.xml
-│           │
-│           ├── login.jsp
-│           ├── dashboard.jsp
-│           ├── request.jsp
-│           ├── dh-requests.jsp
-│           ├── store-requests.jsp
-│           ├── add-inventory.jsp
-│           ├── admin-users.jsp
-│           ├── inventory.jsp
-│           ├── issued-items.jsp
-│
-├── test/
-├── target/
-├── .gitignore
-└── README.md
 Security Features
   Session-based authentication
   Role-based authorization

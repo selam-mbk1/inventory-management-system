@@ -1,4 +1,4 @@
-### Inventory Management System (IMS)
+# Inventory Management System (IMS)
 ## Project Overview
 
 The Inventory Management System (IMS) is a Java-based web application designed to manage inventory operations in an organized and efficient manner. The system supports item requesting, approval, issuing, and user management using role-based access control.
@@ -13,16 +13,16 @@ This project is developed as a group academic assignment and demonstrates the us
 >>Enforce secure, role-based access control
 
 ## User Roles and Responsibilities
-  # Instructor
+  ### Instructor
       Request inventory items
       View request status
-  # Department Head
+  ### Department Head
       Approve or reject inventory requests
-  # Storekeeper
+  ### Storekeeper
        Issue approved inventory items
        Add new inventory items
        View issued items
-  # Admin
+  ### Admin
        Manage system users and roles
 
 ## System Workflow
@@ -79,7 +79,7 @@ Selamawit-Basaznew
 Software Engineering Student
 Adama Science and Technology University
 
-### Projact Video link:
+## Projact Video link:
 https://youtu.be/v0jIlfnCOng?si=jLeoWDHKl0HSsng0
 
 License
